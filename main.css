@@ -1,0 +1,124 @@
+
+#d4d1{
+    padding:  10px 30px;
+}
+#d4b1{
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(88, 197, 121);
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+#d4b1:hover,#d4b2:hover,#d4b3:hover{
+    background-color: rgb(8, 143, 69);
+}
+#d4b2{
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(88, 197, 121);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    float: right;
+}
+#d4d2{
+    padding: 30px;
+    background-color: rgb(184, 241, 224);
+    font-size: 18px;
+}
+#d4b3{
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(88, 197, 121);
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+#d4d3{
+    padding: 20px 30px;
+}
+#d4d4{
+    height: 270px;
+    padding: 15px;
+    margin: 10px 15px;
+    border-radius: 6px;
+    background-color: rgb(175, 174, 174);
+}
+.d4d4{
+    padding: 10px 15px;
+    padding-bottom: 30px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+#d4b4{
+    font-size: 18px;
+}
+#d4b5{
+    text-decoration: none;
+    margin-top: 50px;
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(10, 138, 31);
+    color: white;
+    border-radius: 6px;
+}
+#d4b5:hover{
+    background-color: rgb(4, 114, 4);
+}
+hr{
+    width: 97%;
+}
+#d4d5{
+    padding: 30px;
+}
+#d4d5>h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+#d4d5>p{
+    font-size: 20px;
+}
+#d4d6{
+    padding: 30px;
+}
+#d4d6>h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+#d4d6>p{
+    font-size: 20px;
+}
+#d4d7{
+    background-color: rgb(223, 224, 152);
+    padding: 30px;
+}
+#d4d7>p{
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+#d4d7>a{
+    text-decoration: none;
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(10, 138, 31);
+    color: white;
+    border-radius: 6px;
+}
+#d4d8{
+    padding: 30px;
+}
+#d4d8>h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+li>a{
+    color: black;
+    font-weight: 600;
+}
+li>a:hover{
+    color: rgb(39, 243, 175);
+}
+#d4d8>p{
+    font-size: 20px;
+}
